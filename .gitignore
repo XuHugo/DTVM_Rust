@@ -1,0 +1,8 @@
+/*.a
+/*.dylib
+/.idea
+/*.iml
+/target
+/logs
+/*.wasm
+/fib.json
