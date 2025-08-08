@@ -26,7 +26,6 @@ use std::collections::HashMap;
 use dtvmcore_rust::evm::EvmContext;
 mod mock_context;
 use mock_context::{MockContext, MockContextBuilder};
-
 mod contract_executor;
 use contract_executor::ContractExecutor;
 
